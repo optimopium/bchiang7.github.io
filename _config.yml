@@ -1,26 +1,24 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+name: Sajad Mirzababaei
+title: Sajad Mirzababaei | Computer Scientist
+description: I am a computer scientist looking for ways to teach machines how we communicate 
+  with each other(NLP Specialist). I want to devote my time doing a Ph.D., learning, 
+  and exploring the unknown.
+url: https://optimopium.github.io/
 baseurl: ''
-email: brittany.chiang@gmail.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
+email: ss.mirzababaei@gmail.com
+cover: https://optimopium.github.io/img/og.png
+logo: https://optimopium.github.io/img/emojis/technologist.png
+cv: https://optimopium.github.io/CV.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:ss.mirzababaei@gmail.com
   - title: twitter
-    url: https://twitter.com/bchiang7
-  - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: codepen
-    url: http://codepen.io/bchiang7
+    url: https://twitter.com/optimopium
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/optimopium
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/sajad-mirzababaei/
 
 # Build settings
 markdown: kramdown
